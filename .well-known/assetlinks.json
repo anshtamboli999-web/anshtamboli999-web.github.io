@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.anshtamboli999_web.twa",
+        "sha256_cert_fingerprints": ["AC:FE:79:8C:EB:6C:C4:AB:A7:BC:60:B8:75:ED:EE:EA:1D:D8:77:FA:6D:6F:F0:A8:89:4B:5A:4D:22:42:F8:06"]
+      }
+    }]
